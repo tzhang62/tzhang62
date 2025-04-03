@@ -18,7 +18,7 @@ I'm currently working on **personalized dialogue generation**, with a focus on a
 ### 🌱 Learning Goals
 I'm currently exploring:
 - **Graph-based Retrieval-Augmented Generation (Graph RAG)**
-- **Reasoning capabilities in foundation models**
+- **Reasoning capabilities in Large Languge Models**
 
 ### 🎯 Outside the Lab
 In my spare time, I enjoy:
