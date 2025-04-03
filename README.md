@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Tianyi
 
 I'm a first-year Ph.D. student in the **Natural Language Dialogue Group** at the **University of Southern California (USC)**.
 
