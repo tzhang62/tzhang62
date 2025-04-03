@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tianyi
+# 👋 Hi, I'm [Your Name]
 
 I'm a first-year Ph.D. student in the **Natural Language Dialogue Group** at the **University of Southern California (USC)**.
 
@@ -12,8 +12,8 @@ I'm broadly interested in:
 ### 🔭 Current Projects
 I'm currently working on **personalized dialogue generation**, with a focus on adapting responses based on user profiles and external knowledge.
 
-- 🤖 [a2i2_chatbot](https://github.com/tzhang62/a2i2_chatbot): A personalized chatbot you can interact with.
-- 📚 [Personalized_RAG](https://github.com/tzhang62/Personalized_RAG): Enhancing response generation by integrating external data with limited persona information.
+- 🔥 [a2i2_chatbot](https://github.com/tzhang62/a2i2_chatbot): A personalized **fire rescue chatbot** designed to assist in emergency communication scenarios.
+- 🧠 [Personalized_RAG](https://github.com/tzhang62/Personalized_RAG): A system for integrating external data with limited persona information to enhance personalized response generation.
 
 ### 🌱 Learning Goals
 I'm currently exploring:
