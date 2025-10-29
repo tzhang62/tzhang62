@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tianyi
 
-I'm a first-year Ph.D. student in the **Natural Language Dialogue Group** at the **University of Southern California (USC)**.
+I'm a second-year Ph.D. student in the **Natural Language Dialogue Group** at the **University of Southern California (USC)**.
 
 ### 🧠 Research Interests
 I'm broadly interested in:
