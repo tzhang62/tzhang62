@@ -1,31 +1,5 @@
-# 👋 Hi, I'm Tianyi
+# Tianyi (Mavis) Zhang
 
-I'm a second-year Ph.D. student in the **Natural Language Dialogue Group** at the **University of Southern California (USC)**.
+PhD student at USC working on NLP, dialogue systems, and personalized AI.
 
-### 🧠 Research Interests
-I'm broadly interested in:
-- **Large Language Models (LLMs)**
-- **Dialogue Systems**
-- **Personalization in conversational AI**
-- **Knowledge integration and reasoning**
-
-### 🔭 Current Projects
-I'm currently working on **personalized dialogue generation**, with a focus on adapting responses based on user profiles and external knowledge.
-
-- 🔥 [a2i2_chatbot](https://github.com/tzhang62/a2i2_chatbot): A personalized **fire rescue chatbot** designed to assist in emergency communication scenarios.
-- 🧠 [Personalized_RAG](https://github.com/tzhang62/Personalized_RAG): A system for integrating external data with limited persona information to enhance personalized response generation.
-
-### 🌱 Learning Goals
-I'm currently exploring:
-- **Graph-based Retrieval-Augmented Generation (Graph RAG)**
-- **Reasoning capabilities in Large Languge Models**
-
-### 🎯 Outside the Lab
-In my spare time, I enjoy:
-- 🎿 Skiing
-- 🏄 Surfing
-- 🥋 Practicing Taekwondo
-
----
-
-Thanks for visiting my GitHub profile! Feel free to check out my work or reach out 🤝
+Personal website: [tianyi-zhang.com](https://tianyi-zhang.com)
